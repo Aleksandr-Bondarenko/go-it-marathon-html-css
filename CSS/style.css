@@ -9,7 +9,7 @@ body {
   font-family: Montserrat;
 }
 
-.main-container {
+main {
   background: #fff;
   display: flex;
   max-width: 1250px;
